@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABDULAHAD HUSSAIN</h1>
 <h3 align="center">A passionate programmer from Pakistan</h3>
 
-- 🔭 I’m currently working on **TO-DO-LIST**
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
