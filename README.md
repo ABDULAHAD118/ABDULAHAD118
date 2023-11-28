@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Pakistan</h3>
 
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **JAVASCRIPT & PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118?tab=repositories](https://github.com/ABDULAHAD118?tab=repositories)
 
