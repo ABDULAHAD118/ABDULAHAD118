@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118?tab=repositories](https://github.com/ABDULAHAD118?tab=repositories)
 
-- 💬 Ask me about **C++,HTML,CSS AND JAVASCRIPT**
+- 💬 Ask me about **C++,HTML,CSS,JAVASCRIPT & PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
