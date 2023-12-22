@@ -20,4 +20,4 @@
 
 <a href="#"><img src="https://streak-stats.demolab.com?user=ABDULAHAD118&theme=dracula&hide_border=true&border_radius=5.1" alt="GitHub Streak" /></a>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULAHAD118&layout=compact&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULAHAD118&layout=compact&theme=dracula)
