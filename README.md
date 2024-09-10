@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm ABDULAHAD HUSSAIN</h1>
 <h3 align="center">A passionate Frontend Developer & Programmer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Payroll Management System**
+- 🔭 I’m currently working on **Library Management System **
 
-- 🌱 I’m currently learning **Database & Tailwind CSS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118](https://github.com/ABDULAHAD118)
 
