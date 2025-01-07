@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&locale=en" alt="abdulahad118" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad118&" alt="abdulahad118" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulahad118&theme=blue-green&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
