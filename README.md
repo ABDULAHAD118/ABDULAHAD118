@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118](https://github.com/ABDULAHAD118)
 
-- 💬 Ask me about **C++,Python,OOP,DSA,SQL,MYSQL,HTML,CSS,Javascript,Typescript,Bootstrap,Tailwind-Css,MongoDB,Node.js,Express,PHP,React,React-Native**
+- 💬 Ask me about **C++,Python,OOP,DSA,SQL,MYSQL,HTML,CSS,Javascript,Typescript,Bootstrap,Tailwind Css,MongoDB, Node.js,Express,PHP,React,React-Native**
 
 - 📫 How to reach me **abdulahadhussain60@gmail.com**
 
