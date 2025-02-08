@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&locale=en" alt="abdulahad118" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad118&" alt="s-abdulahad118" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad118&theme=dracula" alt="s-abdulahad118" /></p>
