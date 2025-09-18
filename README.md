@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdulahad Hussain</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad118&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad118" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs & React Native**
+<!-- - 🌱 I’m currently learning **Nextjs & React Native** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118](https://github.com/ABDULAHAD118)
 
-- 💬 Ask me about **C++,Python,OOP,DSA,SQL,MYSQL,HTML,CSS,Javascript,Typescript,Bootstrap,Tailwind Css,MongoDB, Node.js,Express,PHP,React,React-Native,Nextjs**
+- 💬 Ask me about **C++,Python,OOP,DSA,SQL,MYSQL,HTML,CSS,Javascript,Typescript,Vue,Nuxt.js,Bootstrap,Tailwind Css,MongoDB, Node.js,Express,PHP,React,React-Native,Nextjs**
 
 - 📫 How to reach me **abdulahadhussain60@gmail.com**
 
