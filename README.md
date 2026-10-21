@@ -19,7 +19,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  <picture><img src="./assets/about.svg" width="100%" alt="about me code card" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/refs/heads/main/assets/about-light.svg" /><img src="./assets/about.svg" width="100%" alt="about me code card" /></picture>
 </p>
 
 
@@ -41,7 +41,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <picture><img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: C++, Python, JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Vue, Nuxt, Tailwind, Bootstrap, Node.js, Express, MongoDB, MySQL, SQL Server, Oracle, Git, GitHub, Postman, VS Code, Figma, Photoshop, Illustrator"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/refs/heads/main/assets/tech-stack-light.svg" /><img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: C++, Python, JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Vue, Nuxt, Tailwind, Bootstrap, Node.js, Express, MongoDB, MySQL, SQL Server, Oracle, Git, GitHub, Postman, VS Code, Figma, Photoshop, Illustrator"/></picture>
 </p>
 
 <picture><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/></picture>
@@ -50,12 +50,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <picture><img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&count_private=true" alt="stats"/></picture>
-  <picture><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" alt="top languages"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=7f5af0&icon_color=2cb67d&text_color=24292f&count_private=true" /><img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&count_private=true" alt="stats"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=7f5af0&text_color=24292f&langs_count=8" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" alt="top languages"/></picture>
 </p>
 
 <p align="center">
-  <picture><img src="https://streak-stats.demolab.com?user=abdulahad118&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" alt="streak"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abdulahad118&theme=default&hide_border=false&border=d0d7de&background=ffffff&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" /><img src="https://streak-stats.demolab.com?user=abdulahad118&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" alt="streak"/></picture>
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
@@ -70,7 +70,7 @@
 
 <!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
 <p align="center">
-  <picture><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/></picture>
 </p>
 
 <p align="center">
