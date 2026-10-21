@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2cb67d,100:00d4ff&height=220&section=header&text=Abdulahad%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=20" width="100%" alt="header"/>
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2cb67d,100:00d4ff&height=220&section=header&text=Abdulahad%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Lahore%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=20" width="100%" alt="header"/></picture>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulahad118&label=Profile%20Views&color=7f5af0&style=for-the-badge" alt="profile views" />
+  <picture><img src="https://komarev.com/ghpvc/?username=abdulahad118&label=Profile%20Views&color=7f5af0&style=for-the-badge" alt="profile views" /></picture>
   <a href="https://github.com/ABDULAHAD118?tab=followers"><img src="https://img.shields.io/github/followers/ABDULAHAD118?label=Followers&style=for-the-badge&color=2cb67d&logo=github" alt="followers" /></a>
   <a href="https://github.com/ABDULAHAD118?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaborate-00d4ff?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collaborate" /></a>
 </p>
@@ -19,71 +19,43 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="about me code card" />
+  <picture><img src="./assets/about.svg" width="100%" alt="about me code card" /></picture>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      🔭 &nbsp;Building full-stack web & mobile apps end to end<br/>
-      🌱 &nbsp;Currently levelling up in <b>Next.js</b> & <b>React Native</b><br/>
-      💬 &nbsp;Ask me about <b>JavaScript, TypeScript, React, Node, DSA, SQL</b><br/>
-      📂 &nbsp;All my projects live at <a href="https://github.com/ABDULAHAD118?tab=repositories">github.com/ABDULAHAD118</a><br/>
-      📫 &nbsp;Reach me at <a href="mailto:abdulahadhussain60@gmail.com">abdulahadhussain60@gmail.com</a><br/>
-      ⚡ &nbsp;Fun fact: I debug faster with chai ☕
-    </td>
-  </tr>
-</table>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://abdulahadhussain.tech"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/ABDULAHAD118"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/abdulahad118"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdulahadhussain60@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://instagram.com/abdulahadhussain8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://fb.com/abdulahad0118"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<picture><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/></picture>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,php,html,css&theme=dark" alt="languages"/>
+  <picture><img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: C++, Python, JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Vue, Nuxt, Tailwind, Bootstrap, Node.js, Express, MongoDB, MySQL, SQL Server, Oracle, Git, GitHub, Postman, VS Code, Figma, Photoshop, Illustrator"/></picture>
 </p>
 
-<h4 align="center">🎨 Frontend & Mobile</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap&theme=dark" alt="frontend"/>
-</p>
-
-<h4 align="center">⚙️ Backend & Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="mssql"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="oracle"/>
-</p>
-
-<h4 align="center">🧰 Tools & Design</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ps,ai&theme=dark" alt="tools"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<picture><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/></picture>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+  <picture><img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&count_private=true" alt="stats"/></picture>
+  <picture><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" alt="top languages"/></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulahad118&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" alt="streak"/>
+  <picture><img src="https://streak-stats.demolab.com?user=abdulahad118&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" alt="streak"/></picture>
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
@@ -91,14 +63,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/output/github-snake.svg" alt="contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/refs/heads/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/refs/heads/output/github-snake.svg" alt="contribution snake" />
   </picture>
 </p>
 
 <!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+  <picture><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/></picture>
 </p>
 
 <p align="center">
@@ -106,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2cb67d,100:7f5af0&height=120&section=footer" width="100%" alt="footer"/>
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2cb67d,100:7f5af0&height=120&section=footer" width="100%" alt="footer"/></picture>
 </p>

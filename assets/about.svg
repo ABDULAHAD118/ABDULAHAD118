@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="760" height="330" viewBox="0 0 760 330" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="760" height="382" viewBox="0 0 760 382" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15">
   <style>
+    text { white-space: pre; }
     .line { opacity: 0; animation: show .5s ease forwards; }
     @keyframes show { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
     .cursor { animation: blink 1s steps(1) infinite; }
@@ -13,7 +14,7 @@
       <stop offset="0" stop-color="#7f5af0"/><stop offset=".5" stop-color="#2cb67d"/><stop offset="1" stop-color="#00d4ff"/>
     </linearGradient>
   </defs>
-  <rect x="2" y="2" width="756" height="326" rx="14" fill="#0d1117" stroke="url(#border)" stroke-width="2.5" class="glow"/>
+  <rect x="2" y="2" width="756" height="378" rx="14" fill="#0d1117" stroke="url(#border)" stroke-width="2.5" class="glow"/>
   <circle cx="26" cy="24" r="6" fill="#ff5f56"/><circle cx="46" cy="24" r="6" fill="#ffbd2e"/><circle cx="66" cy="24" r="6" fill="#27c93f"/>
   <text x="380" y="29" text-anchor="middle" class="c" font-size="13">~/abdulahad/about.ts</text>
   <g transform="translate(28 70)">
@@ -25,7 +26,9 @@
     <text y="130" class="line" style="animation-delay:2.2s"><tspan class="p">  databases:</tspan> <tspan class="p">[</tspan><tspan class="s">"MongoDB"</tspan><tspan class="p">, </tspan><tspan class="s">"MySQL"</tspan><tspan class="p">, </tspan><tspan class="s">"SQL Server"</tspan><tspan class="p">, </tspan><tspan class="s">"Oracle"</tspan><tspan class="p">],</tspan></text>
     <text y="156" class="line" style="animation-delay:2.6s"><tspan class="p">  mobile:</tspan> <tspan class="s">"React Native"</tspan><tspan class="p">,</tspan></text>
     <text y="182" class="line" style="animation-delay:3s"><tspan class="p">  coreSkills:</tspan> <tspan class="p">[</tspan><tspan class="s">"C++"</tspan><tspan class="p">, </tspan><tspan class="s">"Python"</tspan><tspan class="p">, </tspan><tspan class="s">"OOP"</tspan><tspan class="p">, </tspan><tspan class="s">"DSA"</tspan><tspan class="p">],</tspan></text>
-    <text y="208" class="line" style="animation-delay:3.4s"><tspan class="p">  motto:</tspan> <tspan class="s">"Turning ideas into fast, beautiful products ✨"</tspan><tspan class="p">,</tspan></text>
-    <text y="234" class="line" style="animation-delay:3.8s"><tspan class="p">};</tspan> <tspan class="v cursor">▋</tspan></text>
+    <text y="208" class="line" style="animation-delay:3.4s"><tspan class="p">  learning:</tspan> <tspan class="p">[</tspan><tspan class="s">"Next.js"</tspan><tspan class="p">, </tspan><tspan class="s">"React Native"</tspan><tspan class="p">],</tspan> <tspan class="c">// 🌱 levelling up</tspan></text>
+    <text y="234" class="line" style="animation-delay:3.8s"><tspan class="p">  funFact:</tspan> <tspan class="s">"I debug faster with chai ☕"</tspan><tspan class="p">,</tspan></text>
+    <text y="260" class="line" style="animation-delay:4.2s"><tspan class="p">  motto:</tspan> <tspan class="s">"Turning ideas into fast, beautiful products ✨"</tspan><tspan class="p">,</tspan></text>
+    <text y="286" class="line" style="animation-delay:4.6s"><tspan class="p">};</tspan> <tspan class="v cursor">▋</tspan></text>
   </g>
 </svg>
