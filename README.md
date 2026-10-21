@@ -1,29 +1,110 @@
-<h1 align="center">Hi 👋, I'm Abdulahad Hussain</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad118&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad118" /> </p>
-
-
-<!-- - 🌱 I’m currently learning **Nextjs & React Native** -->
-
-- 👨‍💻 All of my projects are available at [https://github.com/ABDULAHAD118](https://github.com/ABDULAHAD118)
-
-- 💬 Ask me about **C++,Python,OOP,DSA,SQL,MYSQL,HTML,CSS,Javascript,Typescript,Vue,Nuxt.js,Bootstrap,Tailwind Css,MongoDB, Node.js,Express,PHP,React,React-Native,Nextjs**
-
-- 📫 How to reach me **abdulahadhussain60@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdulahad118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulahad018" height="30" width="40" /></a>
-<a href="https://fb.com/abdulahad0118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulahad0118" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulahadhussain8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulahadhussain8" height="30" width="40" /></a>
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2cb67d,100:00d4ff&height=220&section=header&text=Abdulahad%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=20" width="100%" alt="header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ABDULAHAD118">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Abdulahad+Hussain;Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+Nuxt;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+apps+with+React+Native+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&theme=dracula&show_icons=true&locale=en&layout=compact" alt="abdulahad118" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulahad118&label=Profile%20Views&color=7f5af0&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/ABDULAHAD118?tab=followers"><img src="https://img.shields.io/github/followers/ABDULAHAD118?label=Followers&style=for-the-badge&color=2cb67d&logo=github" alt="followers" /></a>
+  <a href="https://github.com/ABDULAHAD118?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaborate-00d4ff?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collaborate" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&theme=dracula&show_icons=true&locale=en" alt="abdulahad118" /></p>
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad118&theme=dracula" alt="s-abdulahad118" /></p>
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="about me code card" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      🔭 &nbsp;Building full-stack web & mobile apps end to end<br/>
+      🌱 &nbsp;Currently levelling up in <b>Next.js</b> & <b>React Native</b><br/>
+      💬 &nbsp;Ask me about <b>JavaScript, TypeScript, React, Node, DSA, SQL</b><br/>
+      📂 &nbsp;All my projects live at <a href="https://github.com/ABDULAHAD118?tab=repositories">github.com/ABDULAHAD118</a><br/>
+      📫 &nbsp;Reach me at <a href="mailto:abdulahadhussain60@gmail.com">abdulahadhussain60@gmail.com</a><br/>
+      ⚡ &nbsp;Fun fact: I debug faster with chai ☕
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdulahad118"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abdulahadhussain60@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/abdulahadhussain8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://fb.com/abdulahad0118"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">💻 Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,php,html,css&theme=dark" alt="languages"/>
+</p>
+
+<h4 align="center">🎨 Frontend & Mobile</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap&theme=dark" alt="frontend"/>
+</p>
+
+<h4 align="center">⚙️ Backend & Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="mssql"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="oracle"/>
+</p>
+
+<h4 align="center">🧰 Tools & Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ps,ai&theme=dark" alt="tools"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulahad118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahad118&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulahad118&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=00d4ff&currStreakLabel=2cb67d" alt="streak"/>
+</p>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ABDULAHAD118/ABDULAHAD118/output/github-snake.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, drop a star on a repo — it keeps me shipping! ⭐</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2cb67d,100:7f5af0&height=120&section=footer" width="100%" alt="footer"/>
+</p>
